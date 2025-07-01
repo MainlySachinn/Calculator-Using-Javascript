@@ -3,7 +3,7 @@
 A stylish and functional calculator made using **HTML, CSS, and JavaScript** — perfect for basic arithmetic operations!
 
 ### 🌐 Live Demo
-👉 http://sachin-calculator.js.org/
+👉 https://mainlysachinn.github.io/Calculator-Using-Javascript/
 ---
 
 ## 📱 Features
