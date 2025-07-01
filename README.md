@@ -25,7 +25,7 @@ A stylish and functional calculator made using **HTML, CSS, and JavaScript** —
 
 ## 📸 Screenshots
 
-![Calculator UI](screenshot.png)
+![Calculator UI](js calculator.png)
 
 ---
 
